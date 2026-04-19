@@ -29,7 +29,7 @@ End-to-end cloud migration simulation including architecture, IAM, VPC design, r
 HIPAA → AWS control mapping, IAM governance, encryption strategy, audit automation, and compliance dashboards.
 ➡️ `hipaa-cloud-governance-framework`
 
-### **3. AWS Cost Optimization Playbook**
+### **3. AWS Cost Optimization Architecture**
 Compute rightsizing, storage tiering, autoscaling strategies, and cost dashboards for cloud financial efficiency.
 ➡️ `aws-cost-optimization-playbook`
 
